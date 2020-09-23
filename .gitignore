@@ -1,0 +1,7 @@
+/bin/
+.classpath
+.project
+/lib/
+/.vscode/
+/src/App.java
+/test/
